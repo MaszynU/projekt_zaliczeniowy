@@ -1,0 +1,25 @@
+START
+  |
+  v
+Użytkownik otwiera aplikację
+  |
+  v
+Czy ma konto?
+  |        \
+  |         \
+ TAK        NIE
+  |           |
+  v           v
+Logowanie   Rejestracja
+  |           |
+  v           v
+Panel główny (zadania)
+  |
+  v
+Dodaj / edytuj zadania
+  |
+  v
+Zapis danych
+  |
+  v
+KONIEC
