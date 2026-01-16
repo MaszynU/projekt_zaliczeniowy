@@ -1,0 +1,22 @@
+# Inspiracje  
+
+## Skojarzenia:
+- planowanie
+- produktywność
+- minimalizm
+- checklisty
+
+### Elementy projektu:
+- lista zadań
+- kalendarz tygodniowy
+- oznaczanie priorytetów
+- statystyki wykonanych zadań
+
+### Wstępne dane wejściowe:
+- kategorie: nauka, praca, inne
+- funkcje: dodaj zadanie, usuń zadanie, oznacz jako wykonane
+
+### Źródła pomysłu:
+- własna potrzeba
+- rozmowy ze znajomymi ze studiów
+- obserwacja problemów z organizacją czasu
