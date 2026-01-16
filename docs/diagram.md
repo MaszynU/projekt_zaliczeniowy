@@ -1,3 +1,4 @@
+```markdown
 # Diagram Projektu
 
 ```mermaid
@@ -11,3 +12,4 @@ flowchart TD
     F --> G[Dodaj / edytuj zadania]
     G --> H[Zapis danych]
     H --> I[KONIEC]
+
